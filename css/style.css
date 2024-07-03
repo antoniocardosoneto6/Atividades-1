@@ -1,0 +1,44 @@
+#principal{
+    background-color: rgb(245, 240, 240);
+    height: 900px;
+}
+#banner{
+    background-image: url(/img/Cabeçalho.png);
+    height: 300px;
+    background-size: 2000px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#menu {
+    height: 40px;
+    margin-top: 5px;
+    background-color: rgb(238, 141, 103);
+
+}
+table{
+    text-align: center;
+    width: 100%;
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    
+}
+tr{
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: rgb(41, 41, 167);
+}
+iframe{
+    width: 500px;
+    height: 500px;
+    border: none;
+}
